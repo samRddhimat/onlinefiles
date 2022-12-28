@@ -1,0 +1,206 @@
+    1  cd /d/Repository
+    2  pwd
+    3  ls
+    4  ls -a
+    5  ls -a --block-size=M
+    6  git --version
+    7  git config --global user.name "dataanalytics"
+    8  git config --global --list
+    9  git clone https://github.com/samRddhimat/Misc.git
+   10  git config --global user.email "radioatomic@protonmail.com"
+   11  cd /d/Repository
+   12  ls
+   13  git clone https://github.com/samRddhimat/Misc.git
+   14  cd Misc/
+   15  ls -a
+   16  cd ..
+   17  pwd
+   18  rm -r Misc/
+   19  rm -r Misc/
+   20  rm -r Misc/
+   21  rm -r Misc
+   22  cd Misc/
+   23  del *.*
+   24  del 
+   25  rm *
+   26  delete 
+   27  exit
+   28  cd /d/Repository
+   29  ls
+   30  rm -rf Misc/.git
+   31  ls Misc/
+   32  git clone https://github.com/samRddhimat/Misc.git
+   33  git clone https://github.com/samRddhimat/Misc.git
+   34  cd /d/Repository
+   35  gh repo clone samRddhimat/Misc
+   36  git clone https://github.com/samRddhimat/Misc.git
+   37  cd Misc/
+   38  rm -rf Misc/.git
+   39  ls -la
+   40  cd ..
+   41  rm -rf Misc
+   42  ls -la
+   43  pwd
+   44  ls
+   45  ls -la
+   46  ls .git
+   47  git ls-remote https://github.com/samRddhimat/Misc.git
+   48  cd /d/Repository
+   49  ls -la
+   50  git clone https://github.com/samRddhimat/Misc.git
+   51  exit
+   52  cd /d/Repository
+   53  pwd 
+   54  ls
+   55  cd M
+   56  cd M 
+   57  cd Misc/
+   58  ls -la
+   59  ls -la
+   60  ls -la
+   61  git commit -m "updated for 19th and 20th" SharesHistory_17_12_2022.xlsx 
+   62  git commit -m "updated for 19th and 20th" SharesHistory_17_12_2022.xlsx 
+   63  git push origin/main
+   64  git push main/origin
+   65  git push origin
+   66  cd /d/Repository/Misc
+   67  ls
+   68  git status
+   69  ls -la
+   70  git commit -m "updated for 19th and 20th" SharesHistory_17_12_2022.xlsx 
+   71  git push main
+   72  git push origin 
+   73  $ ssh-keygen -t ed102233 -C "seenivasan.palaniappan@outlook.com"
+   74  ssh-keygen -t ed102233 -C "seenivasan.palaniappan@outlook.com"
+   75  ssh-keygen -t ed25519 -C "seenivasan.palaniappan@outlook.com"
+   76   eval "$(ssh-agent -s)"
+   77  ssh-add ~/.ssh/formisaccess
+   78  ls -al ~/.ssh
+   79  cd ~/.ssh
+   80  cd ~
+   81  ls -a
+   82  ls *s
+   83  ls *sh
+   84  ls -a *sh
+   85  pwd
+   86  cd /d/Repository
+   87  cd Misc/
+   88  git status
+   89  git push
+   90  git status
+   91  git add
+   92  git add radioaktiv_branch.txt 
+   93  git status
+   94  git commit -m "added radioaktive_branch.txt to test branching" radioaktiv_branch.txt 
+   95  git push radioaktiv_branch.txt
+   96  git branch
+   97  git checkout radioaktiv_branch.txt
+   98  git branch
+   99  git checkout radioaktiv_branch
+  100  git branch
+  101  git checkout -b radioaktiv_branch
+  102  git branch
+  103  git status
+  104  git status
+  105  git add radioaktiv_branch-2nd.txt 
+  106  git branch
+  107  git status
+  108  git commit 
+  109  git push radioaktiv_branch
+  110  git branch
+  111  git push main/radioaktiv_branch
+  112  git push -u origin radioaktiv_branch 
+  113  git log --online --graph
+  114  git log --oneline --graph
+  115  git log --oneline --graph
+  116  git checkout main
+  117  git status
+  118  git log --graph
+  119  git checkout radioaktiv_branch 
+  120  git status
+  121  git log --graph
+  122  git checkout main
+  123  git branch
+  124  git commit
+  125  ls
+  126  ls
+  127  git add
+  128  git commit -m "after natco and fed" SharesHistory_17_12_2022.xlsx 
+  129  git push main SharesHistory_17_12_2022.xlsx
+  130  git branch
+  131  git push -u origin SharesHistory_17_12_2022.xlsx
+  132  git push -u origin 
+  133  git pull
+  134  git push -u origin 
+  135  git count-objects-v
+  136  git count-objects -v
+  137  exit
+  138  pwd
+  139  cd /d/Repository
+  140  cd Misc/
+  141  ls
+  142  git status
+  143  git branch
+  144  ls -la
+  145  git status
+  146  git checkout radioaktiv_branch 
+  147  git branch
+  148  git commit -m "added an entry for tatamotordvr" SharesHistory_17_12_2022.xlsx 
+  149  git push 
+  150  git branch
+  151  git commit -m "added an entry for natcopharma" SharesHistory_17_12_2022.xlsx 
+  152  git push 
+  153  history
+  154  man history
+  155  history ?
+  156  git statusw
+  157  git statuss
+  158  git status
+  159  git branch
+  160  git commit -m "frequency chart"
+  161  git commit -m "frequency chart"
+  162  git push 
+  163  ls -la
+  164  git status
+  165  git commit -m "frequency chart" toto.xlsx 
+  166  git push 
+  167  git status
+  168  git commit -m "added winning set" toto.xlsx 
+  169  git push 
+  170  git status
+  171  history
+  172  ls -lar
+  173  ls -r
+  174  ls -h
+  175  ls -ll
+  176  ls -l
+  177  ls -lx
+  178  ls -g
+  179  exit
+  180  cd /d/Repository
+  181  git clone https://github.com/samRddhimat/onlinefiles.git
+  182  cd onlinefiles/
+  183  git status
+  184  commit
+  185  git commit
+  186  git commit -m"adding data file ETTT.csv" -a ETTT.csv 
+  187  git commit -m"adding data file ETTT.csv" ETTT.csv 
+  188  git commit -am "adding ETTT.csv"
+  189  git status
+  190  git push
+  191  git push
+  192  git push
+  193  git status
+  194  git add ETTT.csv 
+  195  git status
+  196  git commit -m"added ETTT.csv" ETTT.csv 
+  197  git push
+  198  git commit -m"replaced with 3 months data" ETTT.csv 
+  199  git push
+  200  git add fbnk-plotly.ipynb 
+  201  git commit -m"added python notebook"
+  202  git status 
+  203  git push origin/main
+  204  git push origin
+  205  git push main
+  206  history >> history_23_12_2022.txt
