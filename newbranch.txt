@@ -1,0 +1,2 @@
+creating a branch 1
+switched to new branch hotfix, created hotfix.txt, switched to main branch, merged hotfix branch to main branch, deleted hotfix branch, switched back to newbranch branch and adding this to newbranch.txt
