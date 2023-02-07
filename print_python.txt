@@ -1,0 +1,50 @@
+In Python 3, print() is now a function and uses arguments to control its output. In this lesson, you’ll learn about the sep, end, and flush arguments.
+
+By default, print() inserts a space between the items it is printing. You can change this by using the sep parameter:
+
+>>> print('There are', 6, 'members of Monty Python')
+There are 6 members of Monty Python
+>>> message = 'There are' + 6 + 'members of Monty Python'
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: can only concatenate str (not "int") to str
+>>> message = 'There are' + str(6) + 'members of Monty Python'
+>>> print(message)
+There are6members of Monty Python
+>>> print('There are', 6, 'members of Monty Python', sep='😀')
+There are😀6😀members of Monty Python
+>>> print('There are', 6, 'members of Monty Python', sep=' ')
+There are 6 members of Monty Python
+>>> print('There are', 6, 'members of Monty Python', sep=None)
+There are 6 members of Monty Python
+>>> print('There are', 6, 'members of Monty Python', sep='')
+There are6members of Monty Python
+>>> print('There are', 6, 'members of Monty Python', sep='\n')
+There are
+6
+members of Monty Python
+>>> data = [ 
+...     ['year', 'last', 'first'], 
+...     [1943, 'Idle', 'Eric'], 
+...     [1939, 'Cleese', 'John'] 
+... ]
+>>> for row in data:
+...     print(*row, sep=',')
+... 
+year,last,first
+1943,Idle,Eric
+1939,Cleese,John
+Unless told otherwise, print() adds a \n at the end of what is being printed. This can be changed with the end parameter. Output from print() goes into a buffer. When you change the end parameter, the buffer no longer gets flushed. To ensure that you get output as soon as print() is called, you also need to use the flush=True parameter:
+
+import time
+
+def count_items(items):
+    print('Counting ', end='', flush=True)
+    num = 0
+    for item in items:
+        num += 1
+        time.sleep(1)
+        print('.', end='', flush=True)
+
+    print(f'\nThere were {num} items')
+You can combine sep and end to create lists, CSV output, bulleted lists, and more.
