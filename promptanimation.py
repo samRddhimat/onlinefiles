@@ -3,6 +3,7 @@ from time import sleep
 
 # Show the spinning animation 3 times
 print('Everybody look busy  ', end='', flush=True)
+indicators = ["⢿", "⣻", "⣽", "⣾", "⣷", "⣯", "⣟", "⡿"]
 for x in range(3):
     for frame in r'-\|/-\|/':
         # Back up one character then print our next frame in the animation
